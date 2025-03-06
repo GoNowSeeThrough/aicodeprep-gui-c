@@ -1,0 +1,13 @@
+i just always have it open in a browser / AI studio. If i am getting stuck using Cline/Roo Code or Copilot (sometimes, it is just dumb and can't figure out which files it needs for context), I open up my tool which is a GUI context maker that auto-checks likely files but lets you check/uncheck whatever ones you need,
+我总是将其在浏览器/AI Studio 中打开。如果我在使用 Cline/Roo Code 或 Copilot 时遇到困难（有时它真的很笨，无法确定需要哪些文件作为上下文），我会打开我的工具，这是一个 GUI 上下文创建器，它会自动检查可能的文件，但允许你检查/取消勾选所需的任何文件。
+
+https://github.com/detroittommy879/aicodeprep-gui-c
+
+I check the files needed and click process, then paste it into Google AI studio and ask questions. It works pretty good even when there's tons of tokens. Usually seems to fix problems better than Deepseek or some other ones.. i will go to it because its free. Sometimes i will paste it into multiple models at once that are free like Gwen 2.5 Max or Phind.
+我检查了所需的文件并点击了处理，然后将它粘贴到谷歌 AI 工作室并提问。即使有大量的标记，它也工作得相当不错。通常，它解决问题的能力比 Deepseek 或其他一些工具更好。我会选择它，因为它免费。有时我会一次性将内容粘贴到多个免费模型中，比如 Gwen 2.5 Max 或 Phind。
+
+Then to apply the fix i tell Gemini (Pro 2.0 experimental the newest usually is the best) to write what to do step by step but not be too long winded.. write enough details so a "dumb" AI can accomplish the tasks. Then I use Sonnet in Cline since its the only one that reliably works with Cline to do stuff without constant errors.
+然后应用修复，我会告诉 Gemini（Pro 2.0 实验版，通常最新的是最好的）一步一步地写下要做什么，但不要过于冗长。写下足够的细节，以便一个“愚蠢”的 AI 能够完成这些任务。然后我使用 Sonnet 在 Cline 中，因为它是唯一一个与 Cline 可靠地工作且不会频繁出现错误来完成任务的。
+
+I want to figure out why nothing works good besides Sonnet... maybe, the prompts and methods for the tool usage can be tweaked for different models.
+我想弄清楚为什么除了 Sonnet 之外没有东西能很好地工作...也许，可以调整工具的使用提示和方法以适应不同的模型。
